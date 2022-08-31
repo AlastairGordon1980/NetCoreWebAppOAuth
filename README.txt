@@ -1,0 +1,1 @@
+Following this article: https://www.red-gate.com/simple-talk/development/dotnet-development/oauth-2-0-with-github-in-asp-net-core/ with updates for .Net 6 and some cookie stuff.
